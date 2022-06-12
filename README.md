@@ -3,6 +3,6 @@ first odin repo
 hello odin
 
 
-...sh
+```sh
 sudo pacman -Syu
-...
+```
